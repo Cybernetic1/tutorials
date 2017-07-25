@@ -18,6 +18,20 @@
   <defs
      id="defs4">
     <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4472"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0.0"
@@ -226,6 +240,48 @@
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
          transform="matrix(-0.4,0,0,-0.4,-4,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-36"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3846-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3455"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3457"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3459"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3461"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -406,7 +462,9 @@
        inkscape:export-ydpi="600" />
     <g
        id="g3811-0"
-       transform="translate(-35.5,494.25)">
+       transform="translate(-35.5,494.25)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <rect
          rx="24"
          ry="21"
@@ -430,7 +488,9 @@
     </g>
     <g
        id="g3816-0"
-       transform="translate(-113.5,483.25)">
+       transform="translate(-113.5,483.25)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <rect
          rx="24"
          ry="22"
@@ -454,7 +514,9 @@
     </g>
     <g
        id="g3821-1"
-       transform="translate(-52.5,448.25)">
+       transform="translate(-52.5,448.25)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <rect
          rx="24"
          ry="24"
@@ -482,7 +544,9 @@
     </g>
     <g
        id="g3826-2"
-       transform="translate(-12.5,442.25)">
+       transform="translate(-12.5,442.25)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <rect
          rx="24"
          ry="24"
@@ -513,19 +577,25 @@
        d="m 394.5,829.61218 -79,91"
        id="path3831-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 205.81434,824.92652 84,96"
        id="path3831-5-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 191.18566,824.92652 -87,95"
        id="path3831-9-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <g
        id="g4459"
        transform="translate(-261,202.5)"
@@ -799,5 +869,154 @@
        inkscape:export-filename="/home/yky/latex/AGI-17/Bayes-net-ABC.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
-  </g>
+    <g
+       id="g3811-0-5"
+       transform="translate(61.5,-251)"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png">
+      <rect
+         rx="24"
+         ry="19.5"
+         y="287.86218"
+         x="199"
+         height="42"
+         width="68"
+         id="rect2985-3-9-3"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3795-3-5"
+         y="315.36218"
+         x="234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="315.36218"
+           x="234"
+           id="tspan3797-6-6"
+           sodipodi:role="line">John</tspan></text>
+    </g>
+    <g
+       id="g3816-0-2"
+       transform="translate(-22.5,-264)"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png">
+      <rect
+         rx="24"
+         ry="21.5"
+         y="301.86218"
+         x="478"
+         height="43"
+         width="73"
+         id="rect2985-6-6-9"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3799-2-1"
+         y="329.36218"
+         x="515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="329.36218"
+           x="515"
+           id="tspan3801-6-2"
+           sodipodi:role="line">Mary</tspan></text>
+    </g>
+    <g
+       id="g3549"
+       transform="translate(-182,-5)"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <rect
+         rx="24"
+         ry="20.5"
+         y="184.36218"
+         x="335.5"
+         height="44"
+         width="130"
+         id="rect2985-8-0"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3803-7-9"
+         y="212.36218"
+         x="401.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="212.36218"
+           x="401.5"
+           sodipodi:role="line"
+           id="tspan4406-6">obsessively</tspan></text>
+    </g>
+    <g
+       id="g3826-2-0"
+       transform="translate(292.5,-307)"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png">
+      <rect
+         rx="24"
+         ry="20"
+         y="486.86218"
+         x="71"
+         height="41"
+         width="75"
+         id="rect2985-7-0-6"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3807-2-2"
+         y="513.36218"
+         x="108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="513.36218"
+           x="108"
+           sodipodi:role="line"
+           id="tspan4408-1">loves</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="m 485.5,86.36218 -75,93"
+       id="path3831-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-36)"
+       d="m 302.81434,79.67652 84,96"
+       id="path3831-5-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-36)"
+       d="m 284.18566,202.67652 73,0"
+       id="path3831-9-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5216"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-10,5)"
+       inkscape:export-filename="/home/yky/latex/2017/John-loves-Mary-obsessively.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><flowRegion
+         id="flowRegion5218"><rect
+           id="rect5220"
+           width="71"
+           height="71"
+           x="563"
+           y="122.36218" /></flowRegion><flowPara
+         id="flowPara5222">?</flowPara></flowRoot>  </g>
 </svg>
