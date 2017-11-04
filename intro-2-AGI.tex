@@ -86,9 +86,9 @@
 
 \title{
 \ifdefined\chinchin
-10 分钟介绍强人工智能
+5 分钟介绍强人工智能
 \else
-10 mins intro to AGI
+5 mins intro to AGI
 \fi
 }
 %\normalsize{-- a minimalist cognitive architecture combining\\
@@ -129,6 +129,8 @@
 %\section{Bayesian network}
 % \label{sec:0}
 
+\subsubsection{Bayesian networks}
+
 首先由 Bayesian network 谈起，它是一种命题之间的 graphical model，用以计算某些 nodes 的未知的 probabilities：
 \begin{equation}
 \vcenter{\hbox{\includegraphics[scale=0.6]{suicide-note.png}}}
@@ -143,21 +145,37 @@ AGI 的其中一个关键步骤是：
 \begin{equation}
 \boxed{first-order logic} \stackrel{\mbox{lift}}{\longrightarrow} \boxed{first-order Bayesian networks}
 \end{equation}
-这个问题基本上是可以解决的，其中一个方法叫 KBMC (knowledge-based model construction) ：
+这个问题基本上是解决了的，其中一个方法叫 KBMC (knowledge-based model construction) ：
 \begin{equation}
 \vcenter{\hbox{\includegraphics[scale=0.7]{KBMC-illustrated.png}}}
 \end{equation}
-附带一提，即管在某些名校，如果能做到 lift Bayesian network to probabilistic case，那大概已经可以拿个 PhD，因为这已经算是一种 ``cutting edge'' 的工作（至少在大约 2000-2010 年这段时间，有很多 first-order Bayesian network 的论文出现）。 当然我并没有抵毁 PhD 的意思，但我想指出，在数学上／抽象的角度来看，这其实是一个很简单的动作。 
 
-而且有个更重要的重点：  \uline{这不是瓶颈}。
+\subsubsection{China vs USA}
 
-\underline{\textbf{AGI 的瓶颈是 learning}}。  认识到这一点是非常重要的，AI winter
+附带一提，即管在某些外国名校，如果能做到 lift Bayesian network to probabilistic case，那大概已经可以拿个 PhD，因为这已经算是一种 ``cutting edge'' 的工作（至少在大约 2000-2010 年这段时间，有很多 first-order Bayesian network 的论文出现）。 当然我并没有贬低 PhD 的意思，但我想指出，在数学上／抽象的角度来看，这其实是一个很简单的动作。  由此也可以看出其实 AGI 的数学化仍然处於颇为原始的阶段（例如，和现在高度数学化的 physics 相比之下）。
 
-用 deep learning 模拟 逻辑的 $\vdash$。
+外国有足够的资源养活一班 PhD 研究员，而lifting 这课题也确实算是edge，但\uline{香港}的科技颇为落后，资源也极缺乏（相对於人口比例），所以我和 Joseph Cheng 等很多\uline{香港}人都没有 PhD。 我们要在有限的资源下搞 AI。  大陆的情况我不太熟悉，似乎你们也很少研究人材（相对人口比例，但总数量也很可观），然而问题是内地对 AGI 的接触似乎不多，教授们通常研究一些较传统的项目。
+
+很多人关心「\uline{中国} vs \uline{美国}」的 AI 竞赛谁会赢，我觉得\uline{中国}的研究人材虽然占人口比例小，但由於\uline{中国}人多，所以和\uline{美国}比也可以达到不相伯仲的地步。  问题是其馀的人口会不会将\uline{中国}的人材「拖下去」其实是会的，例如\uline{百度}，它比起 Google 是一个「较差」的搜寻引擎，而部分原因是，\uline{百度}的搜寻质素被\uline{中国}人民的平均知识水平拖低了。  在 AI 的情况会是类似的，不过与其说\uline{中美}较量，我更倾向支持国际化的合作模式。
+
+而更重要的是：  \uline{这不是瓶颈}。
+
+\subsubsection{The bottleneck}
+
+\underline{\textbf{AGI 的瓶颈是 learning}}。  认识到这点是非常重要的，在 1980-90 年代有 AI winter 是因为逻辑 AI 系统的 学习算法要依赖 ILP (inductive logic programming)，它是基於 combinatorial search 的算法，所以很慢。 它慢到根本不能解决实际情况中出现的 problem size，所以只有很少的商业应用价值。 而这一切在 deep learning 出现之后改变了； 现在 deep learning 已经可以解决「翻译」和「视觉」这两大问题 --- 曾经被认为是 AI-hard 的问题。 
+
+\subsubsection{Using deep learning to do logic}
+
+PROLOG 的基本运作是这样的：
+\begin{equation}
+\KB + \boxed{query} \stackrel{PROLOG}{\longrightarrow} \boxed{answer}
+\end{equation}
+它搜寻答案的算法是 unification 和 resolution，前者负责处理 variable substitutions，后者负责寻找逻辑命题的 proof tree。  这些是逻辑 AI 的基础，在书里会有详细解释。
+
+关键是用 deep learning 去模拟 逻辑的 $\vdash$ 运算，$\vdash$ 是 \textbf{逻辑后果算子} (consequence operator)。 
 
 
-
-\section*{Acknowledgements}
+% \section*{Acknowledgements}
 
 \bibliographystyle{unsrtnat} % or number or aaai ...
 \bibliography{AGI-book}

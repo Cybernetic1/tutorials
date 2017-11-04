@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="simple-2x2-quadratic-NN.svg"
+   inkscape:export-filename="/home/yky/latex/tutorials/simple-2x2-quadratic-NN.svg.png"
+   inkscape:export-xdpi="288"
+   inkscape:export-ydpi="288">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="326.75"
+     inkscape:cy="492.5"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1050"
+     inkscape:window-height="1656"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3336"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-65.395081,-23.179836)"><flowRegion
+         id="flowRegion3338"><rect
+           id="rect3340"
+           width="75"
+           height="79"
+           x="317"
+           y="441.36221"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara3342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '">•</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.5,529.36221 267,0"
+       id="path4269-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="translate(-63.995056,61.820164)"
+       xml:space="preserve"
+       id="flowRoot3336-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3338-6"><rect
+           id="rect3340-7"
+           width="75"
+           height="79"
+           x="317"
+           y="441.36221"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara3342-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '">•</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 175,445.3622 267,0"
+       id="path4269"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="translate(91.404938,-23.179836)"
+       xml:space="preserve"
+       id="flowRoot3336-35"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
+         id="flowRegion3338-62"><rect
+           id="rect3340-9"
+           width="75"
+           height="79"
+           x="317"
+           y="441.36221"
+           style="-inkscape-font-specification:'Latin Modern Roman, ';font-family:'Latin Modern Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara3342-1"
+         style="font-size:35px;-inkscape-font-specification:'Latin Modern Roman, ';font-family:'Latin Modern Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">•</flowPara></flowRoot>    <flowRoot
+       transform="translate(92.804932,61.820164)"
+       xml:space="preserve"
+       id="flowRoot3336-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
+         id="flowRegion3338-7"><rect
+           id="rect3340-0"
+           width="75"
+           height="79"
+           x="317"
+           y="441.36221"
+           style="-inkscape-font-specification:'Latin Modern Roman, ';font-family:'Latin Modern Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara3342-9"
+         style="font-size:35px;-inkscape-font-specification:'Latin Modern Roman, ';font-family:'Latin Modern Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">•</flowPara></flowRoot>    <flowRoot
+       transform="translate(-144.19507,-23.179836)"
+       xml:space="preserve"
+       id="flowRoot3336-36"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3338-0"><rect
+           id="rect3340-6"
+           width="75"
+           height="79"
+           x="317"
+           y="441.36221"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara3342-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '">•</flowPara></flowRoot>    <flowRoot
+       transform="translate(-142.79507,61.820164)"
+       xml:space="preserve"
+       id="flowRoot3336-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3338-1"><rect
+           id="rect3340-8"
+           width="75"
+           height="79"
+           x="317"
+           y="441.36221"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara3342-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '">•</flowPara></flowRoot>    <g
+       id="g4228"
+       transform="translate(210,183)">
+      <rect
+         y="247.21336"
+         x="105.85116"
+         height="27.297659"
+         width="25.297672"
+         id="rect3416"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         ry="12.648836" />
+      <flowRoot
+         transform="translate(73,63)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222" /></flowRegion><flowPara
+           id="flowPara4224"><flowSpan
+   id="flowSpan4226"
+   style="font-style:italic">x</flowSpan>²</flowPara></flowRoot>    </g>
+    <g
+       id="g4228-6"
+       transform="translate(210.50001,268.50001)">
+      <rect
+         y="247.21336"
+         x="105.85116"
+         height="27.297659"
+         width="25.297672"
+         id="rect3416-3"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         ry="12.648836" />
+      <flowRoot
+         transform="translate(73,63)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-3"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222-3" /></flowRegion><flowPara
+           id="flowPara4224-4"><flowSpan
+   id="flowSpan4226-6"
+   style="font-style:italic">x</flowSpan>²</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4218-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(409.50001,327.50001)"><flowRegion
+         id="flowRegion4220-7"><rect
+           id="rect4222-2"
+           width="41"
+           height="59"
+           x="38"
+           y="184.3622"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara4224-2"><flowSpan
+           style="font-style:italic"
+           id="flowSpan4226-9">x</flowSpan><flowSpan
+           style="font-size:64.99999762%;baseline-shift:sub"
+           id="flowSpan4327">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4218-1-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(406.90306,244.54455)"><flowRegion
+         id="flowRegion4220-7-8"><rect
+           id="rect4222-2-1"
+           width="41"
+           height="59"
+           x="38"
+           y="184.3622"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara4224-2-2"><flowSpan
+           style="font-style:italic"
+           id="flowSpan4226-9-4">x</flowSpan><flowSpan
+           style="font-size:64.99999762%;baseline-shift:sub"
+           id="flowSpan4327-7">1</flowSpan></flowPara></flowRoot>    <g
+       id="g4822">
+      <rect
+         y="430.86221"
+         x="366"
+         height="23.5"
+         width="28.5"
+         id="rect4459"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(329.09806,241.54455)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         id="flowRoot4218-1-2-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#ff0000;"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222-2-1-3" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7"><flowSpan
+             id="flowSpan4226-9-4-7"
+             style="font-style:italic;fill:#ff0000;">w</flowSpan><flowSpan
+             id="flowSpan4327-7-2"
+             style="font-size:64.99999762%;baseline-shift:sub;fill:#ff0000;">11</flowSpan></flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 341,445.3622 83,85"
+       id="path4389"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 341.5,528.3622 80.5,-84"
+       id="path4391"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 186,444.3622 82,85"
+       id="path4393"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 187,530.3622 80,-85"
+       id="path4395"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4497"
+       transform="translate(2,-4.5)">
+      <rect
+         y="459.61221"
+         x="345.75"
+         height="23.5"
+         width="28.5"
+         id="rect4459-9"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(309.05588,270.54455)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-2-8-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6-7"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222-2-1-3-2" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7-5"><flowSpan
+             id="flowSpan4226-9-4-7-3"
+             style="font-style:italic">w</flowSpan><flowSpan
+             id="flowSpan4327-7-2-7"
+             style="font-size:64.99999762%;baseline-shift:sub">12</flowSpan></flowPara></flowRoot>    </g>
+    <g
+       id="g4506"
+       transform="translate(1,7)">
+      <rect
+         y="488.11221"
+         x="346.25"
+         height="23.5"
+         width="28.5"
+         id="rect4459-98"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(309.05588,300.54455)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-2-8-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6-8"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222-2-1-3-1" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7-3"><flowSpan
+             id="flowSpan4226-9-4-7-6"
+             style="font-style:italic">w</flowSpan><flowSpan
+             id="flowSpan4327-7-2-4"
+             style="font-size:64.99999762%;baseline-shift:sub">21</flowSpan></flowPara></flowRoot>    </g>
+    <g
+       id="g4515"
+       transform="translate(-3,-6.5)">
+      <rect
+         y="526.11218"
+         x="373.25"
+         height="23.5"
+         width="28.5"
+         id="rect4459-0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(335.05588,338.04455)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-2-8-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6-3"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222-2-1-3-5" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7-8"><flowSpan
+             id="flowSpan4226-9-4-7-5"
+             style="font-style:italic">w</flowSpan><flowSpan
+             id="flowSpan4327-7-2-0"
+             style="font-size:64.99999762%;baseline-shift:sub">22</flowSpan></flowPara></flowRoot>    </g>
+    <g
+       id="g4645"
+       transform="translate(-7.5,2.5)">
+      <rect
+         y="514.61218"
+         x="292.75"
+         height="25"
+         width="19.5"
+         id="rect4459-7-1"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(255.20154,326.52228)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-24"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-9"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222-2-0" /></flowRegion><flowPara
+           id="flowPara4224-2-1"><flowSpan
+             id="flowSpan4226-9-2"
+             style="font-style:italic">u</flowSpan><flowSpan
+             id="flowSpan4327-0"
+             style="font-size:64.99999762%;baseline-shift:sub">2</flowSpan></flowPara></flowRoot>    </g>
+    <g
+       id="g4636"
+       transform="translate(-6,0)">
+      <rect
+         y="432.11221"
+         x="289.75"
+         height="25"
+         width="19.5"
+         id="rect4459-7-0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(252.60459,243.56682)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-2-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-63"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59"
+             width="41"
+             id="rect4222-2-1-9" /></flowRegion><flowPara
+           id="flowPara4224-2-2-0"><flowSpan
+             id="flowSpan4226-9-4-8"
+             style="font-style:italic">u</flowSpan><flowSpan
+             id="flowSpan4327-7-3"
+             style="font-size:64.99999762%;baseline-shift:sub">1</flowSpan></flowPara></flowRoot>    </g>
+    <g
+       id="g4838">
+      <rect
+         y="433.11221"
+         x="211.75"
+         height="24.5"
+         width="31.5"
+         id="rect4459-7"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(171.34806,246.79454)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         id="flowRoot4218-1-2-8-31"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6-0"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#ff0000;"
+             y="184.3622"
+             x="38"
+             height="59.5"
+             width="52.5"
+             id="rect4222-2-1-3-0" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7-50"><flowSpan
+             id="flowSpan4226-9-4-7-31"
+             style="font-style:italic;fill:#ff0000;">W</flowSpan><flowSpan
+             id="flowSpan4327-7-2-8"
+             style="font-size:64.99999762%;baseline-shift:sub;fill:#ff0000;">11</flowSpan></flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4218-1-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(118.70154,328.52228)"><flowRegion
+         id="flowRegion4220-7-91"><rect
+           id="rect4222-2-03"
+           width="41"
+           height="59"
+           x="38"
+           y="184.3622"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara4224-2-5"><flowSpan
+           style="font-style:italic"
+           id="flowSpan4226-9-9">y</flowSpan><flowSpan
+           style="font-size:64.99999762%;baseline-shift:sub"
+           id="flowSpan4327-4">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4218-1-2-84"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(116.10459,245.56682)"><flowRegion
+         id="flowRegion4220-7-8-69"><rect
+           id="rect4222-2-1-2"
+           width="41"
+           height="59"
+           x="38"
+           y="184.3622"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" /></flowRegion><flowPara
+         id="flowPara4224-2-2-9"><flowSpan
+           style="font-style:italic"
+           id="flowSpan4226-9-4-0">y</flowSpan><flowSpan
+           style="font-size:64.99999762%;baseline-shift:sub"
+           id="flowSpan4327-7-30">1</flowSpan></flowPara></flowRoot>    <g
+       id="g4730-9"
+       transform="translate(-25.5,56.999991)">
+      <rect
+         y="398.61221"
+         x="218.75"
+         height="24.5"
+         width="31.5"
+         id="rect4459-7-5"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(178.34806,212.29454)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-2-8-31-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6-0-1"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59.5"
+             width="52.5"
+             id="rect4222-2-1-3-0-1" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7-50-4"><flowSpan
+             id="flowSpan4226-9-4-7-31-3"
+             style="font-style:italic">W</flowSpan><flowSpan
+             id="flowSpan4327-7-2-8-7"
+             style="font-size:64.99999762%;baseline-shift:sub">12</flowSpan></flowPara></flowRoot>    </g>
+    <g
+       id="g4730-2"
+       transform="translate(-26.5,95.999991)">
+      <rect
+         y="398.61221"
+         x="218.75"
+         height="24.5"
+         width="31.5"
+         id="rect4459-7-7"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(178.34806,212.29454)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-2-8-31-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6-0-3"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59.5"
+             width="52.5"
+             id="rect4222-2-1-3-0-9" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7-50-2"><flowSpan
+             id="flowSpan4226-9-4-7-31-4"
+             style="font-style:italic">W</flowSpan><flowSpan
+             id="flowSpan4327-7-2-8-4"
+             style="font-size:64.99999762%;baseline-shift:sub">21</flowSpan></flowPara></flowRoot>    </g>
+    <g
+       id="g4730-4"
+       transform="translate(-6.4999999,119.99999)">
+      <rect
+         y="398.61221"
+         x="218.75"
+         height="24.5"
+         width="31.5"
+         id="rect4459-7-9"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(178.34806,212.29454)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4218-1-2-8-31-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4220-7-8-6-0-38"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+             y="184.3622"
+             x="38"
+             height="59.5"
+             width="52.5"
+             id="rect4222-2-1-3-0-3" /></flowRegion><flowPara
+           id="flowPara4224-2-2-7-50-29"><flowSpan
+             id="flowSpan4226-9-4-7-31-5"
+             style="font-style:italic">W</flowSpan><flowSpan
+             id="flowSpan4327-7-2-8-43"
+             style="font-size:64.99999762%;baseline-shift:sub">12</flowSpan></flowPara></flowRoot>    </g>
+  </g>
+</svg>
